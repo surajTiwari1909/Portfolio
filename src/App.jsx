@@ -44,7 +44,7 @@ function App() {
     <div className="lg:w-1/2 flex justify-center">
       <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-xl relative group">
         <img 
-          src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp" 
+          src="./Data/resume/profilepic.jpeg" 
           alt="Profile" 
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
         />
@@ -99,7 +99,7 @@ function App() {
       
 <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center">
 
-        <a href="./Data/resume/Suraj_tiwari_resume.pdf" download className="btn bg-black text-white px-8 py-3 text-lg shadow-md hover:scale-105 transition-transform">
+        <a href="./Data/resume/Suraj Tiwari Resume.pdf" download className="btn bg-black text-white px-8 py-3 text-lg shadow-md hover:scale-105 transition-transform">
           <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 18">
     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 1v11m0 0 4-4m-4 4L4 8m11 4v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3"/>
 </svg>My Resume
